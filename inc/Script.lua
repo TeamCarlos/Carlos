@@ -1545,7 +1545,7 @@ sendMsg(msg.chat_id_,msg.id_,'🔛*┊* يوجد تحديث جديد الان \n
 redis:set(max..":VERSION",GetVerison)
 return false
 else
-return "🔖┊سـورس مـاكـس\n👨🏾‍🔧*┊* لديـك احدث اصدار \n📦"
+return "🔖┊سـورس كـارلـوس\n👨🏾‍🔧*┊* لديـك احدث اصدار \n📦"
 end
 return false
 end
@@ -2046,7 +2046,7 @@ return [[
 💭┇كود رن السورس 
 `./MAX/run`
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
-📡┇[قناة السورس](t.me/H_GG_H) [@H_GG_H]
+📡┇[قناة السورس](t.me/H_GG_H) @H_GG_H
 👨🏻‍✈️┇[مـطـور الـسـورس](t.me/ooo2v)
 
 ]]
