@@ -71,7 +71,7 @@ done
 else
 
 if ! screen -list | grep -q "Carlos"; then
-screen -S max ./run R
+screen -S Carlos ./run R
 fi
 screen -X -S Carlos kill
 screen -S Carlos ./run R
