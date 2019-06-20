@@ -1545,7 +1545,7 @@ sendMsg(msg.chat_id_,msg.id_,'🔛*┊* يوجد تحديث جديد الان \n
 redis:set(max..":VERSION",GetVerison)
 return false
 else
-return "🔖┊سـورس مـاكـس\n👨🏾‍🔧*┊* لديـك احدث اصدار \n📦"
+return "🔖┊سـورس كـارلـوس\n👨🏾‍🔧*┊* لديـك احدث اصدار \n📦"
 end
 return false
 end
@@ -2029,7 +2029,7 @@ return [[
 💭┇افتح ترمنال جديد 
 ⚜┇انسخ رابط كيثاب السورس  ↡
 
-`git clone https://github.com/MAXTELE/MAX.git ;cd MAX;chmod +x ins;./ins`
+`git clone https://github.com/TeamCarlos/Carlos.git ;cd Carlos;chmod +x ins;./ins`
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 راح يطلب منك معلومات ک تالي ↓
 
@@ -2046,9 +2046,8 @@ return [[
 💭┇كود رن السورس 
 `./MAX/run`
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
-📡┇[قناة السورس](t.me/HXX_X) @HXX_X
+📡┇[قناة السورس](t.me/HXX_X) [@HXX_X]
 👨🏻‍✈️┇[مـطـور الـسـورس](t.me/ooo2v)
-
 ]]
 end
 
